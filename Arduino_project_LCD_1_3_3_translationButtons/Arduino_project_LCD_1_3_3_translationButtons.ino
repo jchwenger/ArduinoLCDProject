@@ -1,5 +1,5 @@
 #include <LiquidCrystal.h>
-LiquidCrystal lcd(0, 1, 8, 9, 10, 11);
+LiquidCrystal lcd(2, 3, 8, 9, 10, 11);
 
 //String word1 = "catness";
 String word1 = "labyrinth";

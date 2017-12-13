@@ -1,6 +1,6 @@
 #include <LiquidCrystal.h>
 //LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
-LiquidCrystal lcd(0, 1, 8, 9, 10, 11);
+LiquidCrystal lcd(2, 3, 8, 9, 10, 11);
 
 int x = 0;
 int y = 0;
