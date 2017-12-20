@@ -50,8 +50,6 @@ void setup() {
   pinMode(6, INPUT);
   pinMode(7, INPUT);
 
-
-
   randomizeWord();
 
 }
